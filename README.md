@@ -23,24 +23,6 @@ A Java-based car parking management system that handles dynamic slot allocation,
 
 ---
 
-## 🏗️ Project Structure
-
-CarParkingSystem/
-│
-├── Car.java
-├── ParkingSpot.java
-├── ParkingLot.java
-│
-├── DAO/
-│ ├── CarDAO.java
-│ ├── ParkingSpotDAO.java
-│ └── ParkingEventDAO.java
-│
-├── DB/
-│ └── DBConnection.java
-│
-├── Main.java
-└── README.md
 
 🗄️ Database Tables
 
@@ -81,8 +63,6 @@ cd CarParkingSystem
 3.Update your DBConnection.java file with your MySQL credentials
 
 4.Compile and run Main.java
-
-📸 Screenshots
 
 
 📚 What I Learned :
