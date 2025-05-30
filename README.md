@@ -69,9 +69,11 @@ CREATE TABLE parking_event (
 );
 
 ▶️ How to Run
+
 1.Clone the repo
 
-git clone https://github.com/yourusername/CarParkingSystem.git
+git clone https://github.com/yourusername/CarParkingSystem.git 
+
 cd CarParkingSystem
 
 2.Set up the MySQL database using the schema above
